@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instrvctions agreed on by a committee of the Lords and Commons for the committee for sequestration of delinquents estates also an order of the Commons assembled in Parliament, concerning persons that shall come from Oxford or any part of the Kings army to London, without warrant from both Houses of Parliament, or from his Excellencie the Earle of Essex, shall be apprehended as spyes and proceeded against according to the rules of warre.</title>
+            <author>England and Wales. Parliament. Committee for Sequestration of Delinquents' Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37822</idno>
+            <idno type="STC">Wing E1588A</idno>
+            <idno type="STC">Wing I236_CANCELLED</idno>
+            <idno type="STC">ESTC R9522</idno>
+            <idno type="EEBO-CITATION">11809112</idno>
+            <idno type="OCLC">ocm 11809112</idno>
+            <idno type="VID">49493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49493)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 530:7 ; 244:E96, no 3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instrvctions agreed on by a committee of the Lords and Commons for the committee for sequestration of delinquents estates also an order of the Commons assembled in Parliament, concerning persons that shall come from Oxford or any part of the Kings army to London, without warrant from both Houses of Parliament, or from his Excellencie the Earle of Essex, shall be apprehended as spyes and proceeded against according to the rules of warre.</title>
+                  <author>England and Wales. Parliament. Committee for Sequestration of Delinquents' Estates.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aprill 11,1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The order of the Commons was also separately issued as a broadside, with caption: Die lunae, 10. aprilis, 1643.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library and Bristol Public Library.</note>
+                  <note>Item at 244:E.96, no. 3 identified as I236 (number cancelled).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Attachment and garnishment --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49493:1" rendition="simple:additions"/>
+            <p>INSTRVCTIONS Agreed on by a COMMITTEE Of the Lords and Commons for the Committee for Sequeſtration of Delinquents eſtates.</p>
+            <p>Alſo An Order of the Commons Aſſembled in Parliament, concerning perſons that ſhall come from <hi>Oxford</hi> or any part of the KINGS army to <hi>London,</hi> without war<g ref="char:EOLhyphen"/>rant from both Houſes of Parliament, or from his Excellencie the Earle of Eſſex, ſhall be apprehended as Spyes, and proceeded againſt according to the rules of Warre.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Commons Aſſembled in Parliament, That this be forthwith Printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen: Elſynge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edw. Husbands,</hi> and are to be ſold at his ſhop in the middle Temple. Aprill 11. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="instructions_for_sequestration">
+            <pb facs="tcp:49493:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:49493:2"/>
+            <list>
+               <head>Inſtructions for the Committee for Sequeſtration of Delinquents Eſtates.</head>
+               <item>1. YOu are to uſe your beſt care and diligence for the ſpeedy execution of the Ordinance here with ſent you for Sequeſtration of Delinquents Eſtates, as being a matter of great neceſſity and importance, for the ſubſi<g ref="char:EOLhyphen"/>ſtance of the Army raiſed by the Parlirment, and great affairs of the Commonwealth.</item>
+               <item>2. You are to cauſe the ſame Ordinance, and the other Order for reſtraining of the Tenants and others from pay<g ref="char:EOLhyphen"/>ing their Rents, and other dues to the ſaid Delinquents, to be forthwith publiſhed in all Markets, and other con<g ref="char:EOLhyphen"/>venient places within your ſeverall Counties and Divi<g ref="char:EOLhyphen"/>ſions.</item>
+               <item>3. You are to meet, and divide your ſelves into ſeve<g ref="char:EOLhyphen"/>rall limits, and to appoint ſome times and places of fur<g ref="char:EOLhyphen"/>ther meeting as ſhalbe moſt convenient, &amp; to call before you or any two or more of you at ſuch meetings, all ſuch Officers &amp; other perſons as you ſhall think fit, and give them in charge the effect of the ſaid Ordinance, and there<g ref="char:EOLhyphen"/>by, and by all good wayes and means to enquire and in<g ref="char:EOLhyphen"/>form your ſelves of all the particulars therein contained; and where you finde any doubt concerning any perſon, whether he be comprehended within the ſaid Ordinance,
+<pb n="4" facs="tcp:49493:3"/>you are to certifie the fame to the Committee of Lords and Commons for this ſervice, and in the mean time to ſecure the Eſtates of ſuch perſons, untill you ſhall receive further Directions.</item>
+               <item>4. Where (after theſe words in the Ordinance, Such as have voluntarily contributed, or ſhall voluntarily con<g ref="char:EOLhyphen"/>tribute) theſe words do follow, viz. Not being under the power of any part of the Kings Army at the time of ſuch contributing; you are not to underſtand thoſe latter words of ſuch as have willingly drawn, or conſented to the draw<g ref="char:EOLhyphen"/>ing in of any ſuch power, or have willingly ſubmitted themſelves thereunto.</item>
+               <item>5. You are to call before you the ſeverall Tenants, and others perſons by whom any Rents, ſumms of money, debts, or other duties are owing to the ſaid Delinquents or any of them, and ſet them a day for payment thereof, and to ſuch Tenants as ſhall willingly yeeld conformity to the ſaid Ordinance; you ſhall abate ſo much of their rack Rents where the lands are ſet at an improved value, and not otherwiſe, as you ſhall think fit, according to their ſeverall conditions and neceſſities, not exceeding a fourth part of ſuch improved Rents.</item>
+               <item>6. You are to ſeize two parts of the eſtates both reall and perfonall, of all papiſts (as they are papiſts) and the whole eſtates of all other ſorts of Delinquents mentioned in the ſayd Ordinance, whether they be Papiſts or others; and you are to underſtand by two parts of Papiſts eſtates, two of their whole Lands, and two of their Goods and perſonall eſtate in three to be divided.</item>
+               <item>7. Upon the ſeizure of the Goods, Chattells, or perſo<g ref="char:EOLhyphen"/>nall eſtates of any the ſayd Delinquents, you are to cauſe an appraiſement therof to be made by indifferent perſons
+<pb n="5" facs="tcp:49493:3"/>and a true Inventory thereof to be taken, and to convey the ſame Goods into ſome ſafe place, or places within the County or elſewhere, there to be kept untill they may con<g ref="char:EOLhyphen"/>veniently be ſold; and you are to ſell the ſame or cauſe them to be ſold at as great Rates as you can, with all con<g ref="char:EOLhyphen"/>venient expedition, and in the Market where conveniently it may be.</item>
+               <item>8. You have power to let all or any the Lands, Tene<g ref="char:EOLhyphen"/>ments, or Hereditaments of any the ſayd Delinquents, from yeer to yeer, to ſuch Tenants as you ſhall think fit, and for ſuch reaſonable Rents as you can get, unleſſe you can otherwiſe employ the ſame to better advantages.</item>
+               <item>9. You are to appoint Collectors for the receiving of all Rents, profits, ſums of money, debts, and other duties due or owing to the ſayd Delinquents, or any of them, al<g ref="char:EOLhyphen"/>lotting the eſtate of any one or more of the ſayd Delin<g ref="char:EOLhyphen"/>quents, to the charge of one or more Collector or Colle<g ref="char:EOLhyphen"/>ctors, as ſhall be moſt convenient; and the ſayd Collectors are to ſend up the ſums by them collected, together with a ſchedule of their receipts and payments, (keeping a du<g ref="char:EOLhyphen"/>plicate thereof) to the Treaſurers which ſhall be appointed by both Houſes for that ſervice, wherein the ſayd Colle<g ref="char:EOLhyphen"/>ctors, or ſuch as they ſhall ſend up the money by, are firſt to attend the ſayd Committee of Lords and Commons for their directions herein, and to be very carefull in the ſafe conveying of the ſayd money.</item>
+               <item>10. Every Collector is to have ſuch allowance for his pains and charges as you ſhall think fit, not exceeding three pence in every pound; and every one that ſhall be ap<g ref="char:EOLhyphen"/>pointed a Solicitor by the ſaid Lords and Commons to ſee this Ordinance put in execution, is to have for his char<g ref="char:EOLhyphen"/>ges and pains therein, fix pence in every pound, and every
+<pb n="6" facs="tcp:49493:4"/>other perſon which ſhall be neceſſarily employed in or a<g ref="char:EOLhyphen"/>bout the ſayd ſervice, is to have ſuch allowances, as you or any two of you or more ſhall think fit, and your ſelves are to be allowed ſuch recompence for your charge and pains in this ſervice, as ſhall be approved of by the Com<g ref="char:EOLhyphen"/>mittee of Lords and Commons.</item>
+               <item>11. You are to keep books and Regiſters of all ſuch mo<g ref="char:EOLhyphen"/>nys, receipts, profits, and other parts of the ſayd Delin<g ref="char:EOLhyphen"/>quents eſtates as ſhall come to your hands, and of all your receipts &amp; payments, and to be accomptable for the ſame to both Houſes of Parliament, or ſuch as they ſhall ap<g ref="char:EOLhyphen"/>point.</item>
+               <item>12. You are to take care for the ſafe keeping of the Deeds, Evidences, and Writings of the ſayd Delinquents, and for preſerving of their Houſes, Timber-trees and Fruit-trees from waſte and deſtruction.</item>
+               <item>13. In all other particulars concerning this buſineſſe, you are to be guided and directed by the ſayd Ordinance, wherein you ſhall conceive any doubt, you are to certifie the ſame to the Committee of Lords and Commons for this ſerviee, whereupon you ſhall receive ſuch further dire<g ref="char:EOLhyphen"/>ction in that behalfe, as ſhall be fit.</item>
+            </list>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="7" facs="tcp:49493:4"/>
+            <head>An Order of the Commons Aſſembled in Parliament, concerning perſons that ſhall come from <hi>Oxford,</hi> or any part of the Kings army to <hi>London,</hi> without warrant from both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, or from his Excellency the Earle of ESSEX.</head>
+            <head type="sub">
+               <hi>Die Lunae</hi> 10. <hi>April,</hi> 1643.</head>
+            <p>IT is this day Ordered by the Commons Aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, That whatſoever perſon ſhall come from Oxford, or any part of the Kings Army to London, or any parts adja<g ref="char:EOLhyphen"/>cent, or to any other part of the Army under the command of the Earle of Eſſex, or to any Fort or Court of Guard, kept by the authority of both Houſes of Parliament, without the warrant of both Houſeſ of Parliament, or of the Lord Generall the Earl of Eſſex; Shall ap<g ref="char:EOLhyphen"/>prehended
+<pb n="8" facs="tcp:49493:5"/>as ſpies and intelligencers, and be proceeded againſt according to the rules and grounds of War. And it is further Ordered, that the like care be taken by Water, for the ap<g ref="char:EOLhyphen"/>prehending of the perſons aforeſayd; And all Captains of Guards and Officers, and all other perſons are required, to be very diligent in ap<g ref="char:EOLhyphen"/>prehending the ſayd perſons. And it is further Ordered, That this Order be printed and pub<g ref="char:EOLhyphen"/>liſhed and ſent to the ſeverall Courts of Guard both by water and Land.</p>
+            <closer>
+               <signed>H: Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
